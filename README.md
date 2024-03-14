@@ -1,0 +1,1 @@
+# Mi Proyecto se corre de esta manera en la terminal python assembler.py Add.asm Add.hack  y se coloca el archivo en la mismo nivel del assembler.py y se selecciona el archivo .asm y se coloca el nombre con el formato .hack 
